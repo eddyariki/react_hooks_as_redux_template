@@ -14,3 +14,6 @@ Take a look at `exampleStoreContexts` to see how to make new `StoreContexts` usi
 Take a look at `exampleComponents` to see how to make use of `use__Store`, `use___Dispatch`, 
 
 
+reference:
+https://dev.to/ankitjena/ciao-redux-using-react-hooks-and-context-effectively-398j
+
