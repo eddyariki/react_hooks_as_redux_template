@@ -2,7 +2,6 @@
 
 This example project shows how React Hooks can be used to create global states that can be modularized. 
 
-<hr>
 - `store.js`
 This file defines a function `makeStore` that returns a `context` for the `store` and for `dispatch`, and `StoreProvider` which encapsulates the two and provides `store` and `dispatch` to the children, effectively working as a modular global state.
 
